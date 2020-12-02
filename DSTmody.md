@@ -1,4 +1,4 @@
-## Lista modów DST:
+## Lista modów DST: [![](https://steamcommunity.com/id/Vex0on)]
 
 Aby zainstalować moda, wciśnij w link do moda w warsztacie steam i wciśnij "Subskrybuj". Mod zostanie automatycznie zainstalowany w DST. Aby go aktywować wejdź z menu głównego do zakładki mody i tam wejdź w moda i go aktywuj.
 
