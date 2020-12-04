@@ -56,7 +56,7 @@ W przypadku śmierci nie tracisz wszystkich przedmiotów, tylko te, które nosis
 [Jack-o-melon](https://steamcommunity.com/sharedfiles/filedetails/?id=721398826)  
 Halloweenowy melon
 
-[DST Rabbit Cage] (https://steamcommunity.com/sharedfiles/filedetails/?id=1788625832)
+[DST Rabbit Cage](https://steamcommunity.com/sharedfiles/filedetails/?id=1788625832)  
 Dodaje klatkę, do której wpadają króliki. (ułatwienie zbierania królików)
 
 ## Mody serwerowe kosmetyczne:
