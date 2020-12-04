@@ -59,6 +59,15 @@ Halloweenowy melon
 [DST Rabbit Cage](https://steamcommunity.com/sharedfiles/filedetails/?id=1788625832)  
 Dodaje klatkę, do której wpadają króliki. (ułatwienie zbierania królików)
 
+[Pickle It](https://steamcommunity.com/sharedfiles/filedetails/?id=839305944)  
+Od teraz możesz kwasić jedzenie w beczce
+
+[Felix's Fancy Potions](https://steamcommunity.com/sharedfiles/filedetails/?id=839305944)  
+Nowe potki o różnych efektach
+
+[Refillable Bucket](https://steamcommunity.com/sharedfiles/filedetails/?id=1417486338)  
+Denerwowało Cię ciągłe craftowanie nowego nawozu? Od teraz możesz sam napełniać kubeł.
+
 ## Mody serwerowe kosmetyczne:
 
 [Gnome Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=820864730)  
